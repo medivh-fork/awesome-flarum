@@ -1,6 +1,6 @@
 # Awesome Flarum
 
-> Flarum 扩展和资源的精选列表/A curated list of amazingly awesome Flarum extensions and resources.
+> A curated list of amazingly awesome Flarum extensions and resources.
 
 ## Table of Contents
 
